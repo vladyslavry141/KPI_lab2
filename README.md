@@ -5,6 +5,8 @@
 
 ## Concept
 
+Test readme
+
 This is a logical continuation of
 [Node.js Starter Kit](https://github.com/HowProgrammingWorks/NodejsStarterKit)
 from [How Programming Works](https://github.com/HowProgrammingWorks) software
